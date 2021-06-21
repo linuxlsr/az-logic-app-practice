@@ -2,4 +2,5 @@
 *.plan
 *.tfvars
 bin/*
-obj/*
+obj/*a
+.idea/*
